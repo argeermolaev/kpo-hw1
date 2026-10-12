@@ -40,6 +40,7 @@
 ### Через CLI
 ```bash
 dotnet run --project VyshKat.Console/VyshKat.Console.csproj
+```
 
 # Обязательные вопросы
 1. Наиболее явно применен Dependency Inversion Principle (DIP), а именно в классе ParkService:
