@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="VyshKat.Console/VyshKatConsole.csproj" Id="dc2193ec-4cc0-48eb-8d02-ef51aec59016" />
+  <Project Path="VyshKatTests/VyshKatTests.csproj" Id="9689215e-f430-4c8c-9700-5a8f9f71474c" />
+</Solution>

@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2041623E-7D25-45C5-8889-40D13C25118E}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{2041623E-7D25-45C5-8889-40D13C25118E}|C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2041623E-7D25-45C5-8889-40D13C25118E}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{2041623E-7D25-45C5-8889-40D13C25118E}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9689215E-F430-4C8C-9700-5A8F9F71474C}|VyshKatTests\\VyshKatTests.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\vyshkattests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9689215E-F430-4C8C-9700-5A8F9F71474C}|VyshKatTests\\VyshKatTests.csproj|solutionrelative:vyshkattests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\application\\services\\servicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\servicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\transport\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transport\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKatConsole.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\vyshkat.console\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKatConsole.csproj|solutionrelative:vyshkat.console\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\services\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\transport\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transport\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKatConsole.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\vyshkat.console\\vyshkatconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKatConsole.csproj|solutionrelative:vyshkat.console\\vyshkatconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\application\\parkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\parkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKat.Console.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\vyshkat.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2193EC-4CC0-48EB-8D02-EF51AEC59016}|VyshKat.Console\\VyshKat.Console.csproj|solutionrelative:vyshkat.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\services\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\things\\chargingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\things\\chargingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\services\\iiservicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\iiservicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\services\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\services\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\things\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\things\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\transport\\electricbicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transport\\electricbicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\agerm\\desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\program\\domain\\entities\\transport\\electricscooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transport\\electricscooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-12T05:25:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCenter.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Application\\Services\\ServiceCenter.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServiceCenter.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Application\\Services\\ServiceCenter.cs",
+              "RelativeToolTip": "Application\\Services\\ServiceCenter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:01:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKatTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "VyshKatTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKatTests\\UnitTest1.cs",
+              "RelativeToolTip": "VyshKatTests\\UnitTest1.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:34:29.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VyshKatConsole",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\VyshKatConsole.csproj",
+              "RelativeDocumentMoniker": "VyshKat.Console\\VyshKatConsole.csproj",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\VyshKatConsole.csproj",
+              "RelativeToolTip": "VyshKat.Console\\VyshKatConsole.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T04:15:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "VyshKat.Console\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\ConsoleMenu.cs",
+              "RelativeToolTip": "VyshKat.Console\\ConsoleMenu.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:12:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\Program.cs",
+              "RelativeDocumentMoniker": "VyshKat.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\VyshKat.Console\\Program.cs",
+              "RelativeToolTip": "VyshKat.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:11:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEnergyConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IEnergyConsumer.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IEnergyConsumer.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IEnergyConsumer.cs",
+              "RelativeToolTip": "Domain\\Services\\IEnergyConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:59:36.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParkService.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Application\\ParkService.cs",
+              "RelativeDocumentMoniker": "Application\\ParkService.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Application\\ParkService.cs",
+              "RelativeToolTip": "Application\\ParkService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:39:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChargingStation.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Things\\ChargingStation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Things\\ChargingStation.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Things\\ChargingStation.cs",
+              "RelativeToolTip": "Domain\\Entities\\Things\\ChargingStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:10:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Helmet.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Things\\Helmet.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Things\\Helmet.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Things\\Helmet.cs",
+              "RelativeToolTip": "Domain\\Entities\\Things\\Helmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:09:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\Scooter.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transport\\Scooter.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\Scooter.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transport\\Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:08:19.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElectricBicycle.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\ElectricBicycle.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transport\\ElectricBicycle.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\ElectricBicycle.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transport\\ElectricBicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:06:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transport\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\Bicycle.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transport\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T23:05:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ElectricScooter.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\ElectricScooter.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transport\\ElectricScooter.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Entities\\Transport\\ElectricScooter.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transport\\ElectricScooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:57:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IIServiceCenter.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IIServiceCenter.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IIServiceCenter.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IIServiceCenter.cs",
+              "RelativeToolTip": "Domain\\Services\\IIServiceCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:48:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IThing.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IThing.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IThing.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IThing.cs",
+              "RelativeToolTip": "Domain\\Services\\IThing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:44:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITransport.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\ITransport.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\ITransport.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\ITransport.cs",
+              "RelativeToolTip": "Domain\\Services\\ITransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:43:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IInventoryItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IInventoryItem.cs",
+              "ToolTip": "C:\\Users\\agerm\\Desktop\\\u0432\u0448\u044D\\\u043A\u043F\u043E\\hw1\\Program\\Domain\\Services\\IInventoryItem.cs",
+              "RelativeToolTip": "Domain\\Services\\IInventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:16:07.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

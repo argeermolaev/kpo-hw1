@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRu9rlgWAMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agerm\\Desktop\\вшэ\\кпо\\hw1\\Program\\VyshKat.Console\\VyshKatConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agerm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\agerm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
